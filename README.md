@@ -7,5 +7,8 @@ Stores the last price on Amazon to a file and compares the current price with th
 You will need to install a couple of python packages   
 
 pip install requests   
-pip install bs4
+pip install bs4   
+
+# How to run  
+> python2.7 amazon_price_tacker.py
 
